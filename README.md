@@ -2,15 +2,14 @@
 
 Team 03: Candela Orellana, Luisa Scharfschwerdt
 
-Lecturer: Nahid Taherkhani, 2. Zug, 2. Gruppe
+Lecturer: Ms. Nahid Taherkhani, 2. Zug, 2. Gruppe
 
 ## Deutsch
 
 ### Projektbeschreibung
 GreenBites and Bits ist eine Web-Plattform, auf der Studierende schnelle und gesunde Rezepte teilen können. 
-Wer zwischen Arbeit und Vorlesungen wenig Zeit hat, findet hier einfache Ideen, um besser zu essen. Nutzer*innen können ein Konto erstellen, 
-Rezepte mit Fotos hochladen, bewerten und löschen. Zusätzlich gibt es einen Tracker, mit dem man festhalten kann, ob man gesund gegessen und genug Wasser 
-getrunken hat.
+Wer zwischen Arbeit und Vorlesungen wenig Zeit hat, findet hier einfache Ideen, um besser zu essen. 
+Nutzer*innen können Rezepte ansehen, hinzufügen und löschen. Geplant sind außerdem Benutzerkonten und Bewertungen.
 
 ### Tech-Stack
 - Backend: Java 25, Spring Boot 4, Gradle
@@ -24,9 +23,9 @@ getrunken hat.
 ## English
 
 ### Project Description
-GreenBites and Bits is a web platform where students can share quick and healthy recipes. For anyone with little time between work and lectures, 
-it offers simple ideas to eat better. Users can create an account, upload recipes with photos, rate them and delete them. 
-There is also a tracker to record whether you ate healthy and drank enough water.
+GreenBites and Bits is a web platform where students can share quick and healthy recipes. 
+For anyone with little time between work and lectures, it offers simple ideas to eat better. 
+Users can view, add and delete recipes. User accounts and ratings are also planned.
 
 ### Tech Stack
 - Backend: Java 25, Spring Boot 4, Gradle
